@@ -21,10 +21,6 @@
 
             <td></td>
             <td> <img src="../assets/imagenes/reportes.png" class="iconos"><a href="reportes-empresa.html">Reportes</a></td>
-
-
-
-
             <td></td>
             <td><img src="../assets/imagenes/comprar.png" class="iconos"><a href="vendidos-empresa.html">Vendidos</a></td>
             <td></td>
